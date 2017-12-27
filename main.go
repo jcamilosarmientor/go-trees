@@ -13,7 +13,7 @@ var raiz *Nodo
 func main() {
 	var nodo Nodo
 
-	for true {
+	for {
 		fmt.Println("--------------------------")
 		fmt.Println("Iniciando...")
 		fmt.Print("Valor: ")
